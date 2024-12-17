@@ -1,2 +1,0 @@
-Layers,Epochs,Mini-Batch Size,Learning Rate,Final Accuracy,"Epoch Outputs [#, # Correct, Total]"
-"[784, 30, 10]",2,10,3.0,0.926,"[[0, 9075, 10000], [1, 9260, 10000]]"
